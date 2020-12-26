@@ -22,7 +22,7 @@ module.exports = {
       { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }
     ]
   ],
-  port: '8888',
+  port: '8890',
 
   markdown: mdConf,
 
