@@ -24,7 +24,7 @@ git config --local user.email "494657028@qq.com"
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
-git push -f "https://${TRAVIS_GITHUB_TOKEN}@github.com/Yutiy/basic.git" main:gh-pages
+git push -f "https://${TRAVIS_GITHUB_TOKEN}@github.com/Yutiy/basic.git" master:gh-pages
 
 cd -
 rm -rf .vuepress/dist
