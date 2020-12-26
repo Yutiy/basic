@@ -9,6 +9,6 @@ script:
   - ./deploy.sh
 branches:
   only:
-    - master
+    - main
 notifications:
   email: false
