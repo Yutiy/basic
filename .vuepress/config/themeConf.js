@@ -13,6 +13,10 @@ module.exports = {
   sidebar,
   subSidebar: 'auto',
 
+  // 备案
+  record: '粤ICP备19122381号',
+  recordLink: 'https://beian.miit.gov.cn/#/Integrated/index',
+
   // blogConfig: {
   //   category: {
   //     location: 6,
